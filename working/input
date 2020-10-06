@@ -1,0 +1,12 @@
+obj
+    var/value
+    stone
+        value = 1
+    ruby
+        value = 50
+    diamond
+        value = 100
+
+        proc
+            bob(mob/cat/X as string = 30)
+                x = 30
